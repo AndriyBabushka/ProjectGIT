@@ -9,5 +9,5 @@ int main()
     std::cout << "Master_2\n";
     std::cout << "Current_Clone\n";
     std::cout << "Current_Clone\n";
-    //lkjdfhgljkdfhg
+    //lkjdfhgljkdfhgd
 }
